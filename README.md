@@ -169,6 +169,9 @@ This project explores **India’s 2024 General Election results** using **Power 
 
 👤 **Mangal Singh**
 📌 [GitHub Profile](https://github.com/mangal-singh001)
+- LinkedIn: [https://www.linkedin.com/in/mangal-singh123/]
+
+                        
 
 ---
 
@@ -180,6 +183,7 @@ This project explores **India’s 2024 General Election results** using **Power 
 
 ---
 
-✅ This version includes all **dashboard images inline** so they appear beautifully on GitHub.  
+
+> ✍️ *Feel free to fork this repo or suggest improvements!*
 
 
