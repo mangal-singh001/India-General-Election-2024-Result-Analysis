@@ -1,4 +1,4 @@
-# 🇮🇳 India General Election 2024 — Result Analysis
+# India General Election 2024 — Result Analysis
 
 **Visual data-driven analysis of India's 2024 Lok Sabha election outcomes**, leveraging **Power BI dashboards**, **SQL querying**, and **data modeling** to reveal constituency-wise, state-wise, and alliance-based insights.
 
@@ -71,7 +71,7 @@ This project explores **India’s 2024 General Election results** using **Power 
    ```bash
    git clone https://github.com/mangal-singh001/India-General-Election-2024-Result-Analysis.git
    cd India-General-Election-2024-Result-Analysis
-````
+   ````
 
 2. Open **`India General Election Result Analysis.pbix`** in Power BI.
 3. Run **`Schemas.sql`** + import CSV files.
