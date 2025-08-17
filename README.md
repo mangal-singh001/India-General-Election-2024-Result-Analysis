@@ -87,15 +87,17 @@ This project explores **India’s 2024 General Election results** using **Power 
 
 ---
 
+### 📈 Overview Analysis
+
+![Overview](./Overview%20Analysis.png)
+
+---
+
+
 ### 🌍 Political Landscape by State
 
 ![Political Landscape](./Political%20Landscape%20by%20State.png)
 
----
-
-### 📈 Overview Analysis
-
-![Overview](./Overview%20Analysis.png)
 
 ---
 
@@ -169,7 +171,7 @@ This project explores **India’s 2024 General Election results** using **Power 
 
 👤 **Mangal Singh**
 📌 [GitHub Profile](https://github.com/mangal-singh001)
-- LinkedIn: [https://www.linkedin.com/in/mangal-singh123/]
+📌 [LinkedIn](https://www.linkedin.com/in/mangal-singh123)
 
                         
 
