@@ -177,11 +177,9 @@ This project explores **India’s 2024 General Election results** using **Power 
 * **Election Commission of India** for official results
 * **Power BI & SQL** for analytics
 
-```
 
 ---
 
 ✅ This version includes all **dashboard images inline** so they appear beautifully on GitHub.  
 
-Do you want me to also **add badges** (e.g., Power BI | SQL | Data Analysis) at the top for a more professional look?
-```
+
